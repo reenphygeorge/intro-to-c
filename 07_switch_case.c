@@ -35,5 +35,10 @@ int main()
           default:
               printf("Default statement");
       }
+      
+      // switch-case vs if-else //
+      // -> Switch case can be used only to check whether the value is equal to certain case values.
+      // -> If else can be used to check all relational operators like <, <=, >, >= ==, !=
+      
       return 0;
 }
